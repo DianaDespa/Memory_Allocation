@@ -1,6 +1,4 @@
-Despa Diana-Alexandra 311CA
-
-	Tema de casă 4 - Alocator de memorie
+Alocator de memorie
 	
 	Algoritmul problemei este unul complex, abstractizat foarte mult prin folosirea a doua tipuri de pointeri (pointeri la char si pointeri la int).
 	Lucrul cu arena se realizeaza prin intermediul variabilei "arena", de tip pointer la char, data ca argument pentru toate functiile, care poate pointa la fiecare octet, si prin intermediul variabilei locale "ar", de tip pointer la int, care poate pointa la indecsi din zonele de gestiune ale arenei. 
